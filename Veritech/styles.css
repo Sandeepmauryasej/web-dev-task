@@ -1,0 +1,116 @@
+.image{
+    text-align: right;
+}
+.container{
+    margin: 100px;
+    width: 80%;
+   
+    
+    border: 1px solid black;
+
+   
+    
+}
+.companyname{
+    text-align: center;
+}
+.companyname h3{
+    background-color: blueviolet;
+   text-align: center;        
+    width: 300px;
+    color: white;
+    font-size: 30px;
+    
+    display: inline-block;
+    border-radius: 5px;
+}
+.companyname p{
+    width: 60%;
+    text-align: center;
+    margin-left: 250px;
+    font-size: 20px;
+
+    border-bottom:3px dashed black;
+}
+.leadership{
+    text-align: center;
+}
+.leadership h2{
+    background-color: blueviolet;
+    display: inline-block;
+    text-align: center;
+    border-radius: 5px;
+    width: 400px;
+    color: white;
+}
+.meet{
+    text-align: center;
+}
+.founder{
+    display: flex;
+    margin-inline: 50px;
+    padding: 20px;
+    margin-left: 500px;
+}
+.founder div{
+    margin-inline: 20px;
+}
+.founder1{
+    display: flex;
+    margin-inline: 50px;
+    padding: 20px;
+    margin-left: 400px;
+
+}
+.founder1 div{
+    margin-inline: 20px;
+}
+.development{
+    display: flex;
+          }
+.developmentTeam{
+    
+    text-align: center;
+    background-color: blueviolet;
+    width: 300px;
+    font-size: 20px;
+    color: white;
+    margin-left: 500px;
+    border-radius: 5px;
+}
+    
+.developmentTeamUser{
+    display: flex;
+    
+    margin-left: 350px;
+}
+.developmentTeamUser .u1,.u2,.u3,.u4{
+    margin-inline: 20px;
+    
+}
+.founder2{
+    display: flex;
+    margin-left: 400px;
+}
+.founder2 .u1,.u2,.u3{
+    margin-inline: 20px;
+}
+.sales{
+    display: inline-block;
+    margin-left: 550px;
+       }
+       .sales .salestext{
+        width: 300px;
+        background-color: blueviolet;
+        text-align: center;
+        justify-content: center;
+        color: white;
+        border-radius: 5px;
+       }
+       .salestext h3{
+        width: 300px;
+        
+       }
+.sales .salesimg{
+    margin-left: 658px;
+}
